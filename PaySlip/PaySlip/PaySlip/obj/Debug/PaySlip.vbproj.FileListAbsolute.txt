@@ -1,0 +1,22 @@
+C:\Users\Data\AppData\Local\Temporary Projects\PaySlip\bin\Debug\PaySlip.exe.config
+C:\Users\Data\AppData\Local\Temporary Projects\PaySlip\bin\Debug\PaySlip.exe
+C:\Users\Data\AppData\Local\Temporary Projects\PaySlip\bin\Debug\PaySlip.pdb
+C:\Users\Data\AppData\Local\Temporary Projects\PaySlip\bin\Debug\PaySlip.xml
+C:\Users\Data\AppData\Local\Temporary Projects\PaySlip\obj\Debug\PaySlip.Form1.resources
+C:\Users\Data\AppData\Local\Temporary Projects\PaySlip\obj\Debug\PaySlip.Resources.resources
+C:\Users\Data\AppData\Local\Temporary Projects\PaySlip\obj\Debug\PaySlip.vbproj.GenerateResource.Cache
+C:\Users\Data\AppData\Local\Temporary Projects\PaySlip\obj\Debug\PaySlip.exe
+C:\Users\Data\AppData\Local\Temporary Projects\PaySlip\obj\Debug\PaySlip.xml
+C:\Users\Data\AppData\Local\Temporary Projects\PaySlip\obj\Debug\PaySlip.pdb
+C:\Users\Data\AppData\Local\Temporary Projects\PaySlip\bin\Debug\payslip.accdb
+F:\Personal Branding\Visual Basic\PaySlip\PaySlip\PaySlip\bin\Debug\PaySlip.exe.config
+F:\Personal Branding\Visual Basic\PaySlip\PaySlip\PaySlip\obj\Debug\PaySlip.exe
+F:\Personal Branding\Visual Basic\PaySlip\PaySlip\PaySlip\obj\Debug\PaySlip.xml
+F:\Personal Branding\Visual Basic\PaySlip\PaySlip\PaySlip\obj\Debug\PaySlip.pdb
+F:\Personal Branding\Visual Basic\PaySlip\PaySlip\PaySlip\bin\Debug\payslip.accdb
+F:\Personal Branding\Visual Basic\PaySlip\PaySlip\PaySlip\bin\Debug\PaySlip.exe
+F:\Personal Branding\Visual Basic\PaySlip\PaySlip\PaySlip\bin\Debug\PaySlip.pdb
+F:\Personal Branding\Visual Basic\PaySlip\PaySlip\PaySlip\bin\Debug\PaySlip.xml
+F:\Personal Branding\Visual Basic\PaySlip\PaySlip\PaySlip\obj\Debug\PaySlip.Form1.resources
+F:\Personal Branding\Visual Basic\PaySlip\PaySlip\PaySlip\obj\Debug\PaySlip.Resources.resources
+F:\Personal Branding\Visual Basic\PaySlip\PaySlip\PaySlip\obj\Debug\PaySlip.vbproj.GenerateResource.Cache
